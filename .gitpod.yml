@@ -1,0 +1,6 @@
+
+vscode:
+  extensions:
+    - muhammad-sammy.csharp
+    - ms-vscode.makefile-tools
+    - vadimcn.vscode-lldb
